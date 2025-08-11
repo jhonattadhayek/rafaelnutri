@@ -1,9 +1,9 @@
-import testimonial1 from "@/assets/testimonial-1.jpg";
-import testimonial2 from "@/assets/testimonial-2.jpg";
-import testimonial3 from "@/assets/testimonial-3.jpg";
-import testimonial4 from "@/assets/testimonial-4.jpg";
-import testimonial5 from "@/assets/testimonial-5.jpg";
-import testimonial6 from "@/assets/testimonial-6.jpg";
+import testimonial1 from "@/assets/testimonial-1.png";
+import testimonial2 from "@/assets/testimonial-2.png";
+import testimonial3 from "@/assets/testimonial-3.png";
+import testimonial4 from "@/assets/testimonial-4.png";
+import testimonial5 from "@/assets/testimonial-5.png";
+import testimonial6 from "@/assets/testimonial-6.png";
 
 const TestimonialsSection = () => {
   const testimonials = [
